@@ -1,4 +1,4 @@
 This is a test project for trial and error
 
-Owner = Bill.Heys
-User = xxx  (TODO create a test user and do stuff from a different computer)
+Owner = BillHeys
+test User = BillHeysEndUser   (this is a non-admin test user to test from u360-ec1)
